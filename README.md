@@ -15,7 +15,7 @@ If you find problems with the file format (in particular security related issues
 1. Clone repository
 
 ```
-git clone https://github.com/CooperRS/decrypt-otpauth-files.git
+git clone https://github.com/worthyox/decrypt-otpauth-files.git
 cd decrypt-otpauth-files
 ```
 
